@@ -1,2 +1,14 @@
-
+table, th, td {
+	border: 2px solid black;
+	border-collapse: collapse;
+}
+th, td {
+	padding: 10px;
+	text-align: center;
+}
+.black-cell {
+	background-color: black;
+	color: white;
+	font-weight: bold;
+}
 /* Your CSS Code here. */
